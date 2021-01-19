@@ -50,7 +50,7 @@ Feito isso, basta utilizar as ferramentas de desenvolvedor do seu navegador e pa
 
 ## :closed_book: &nbsp; Documentação
 
-Atualmente os devices têm seu tamanho definido no código e não como alterar isso sem modificar a biblioteca, porém, para o futuro queremos adicionar mais tamanhos de devices e que eles sejam dinâmicos de acordo com sua necessidade.
+Atualmente os devices têm seu tamanho definido no código e não há como alterar isso sem modificar a biblioteca, porém, para o futuro queremos adicionar mais tamanhos de devices e que eles sejam dinâmicos de acordo com sua necessidade.
 
 - isMobile será `true` quando `screen_width < 768`
 - isTablet será `true` quando `screen_width >= 768 && screen_width < 1024`
