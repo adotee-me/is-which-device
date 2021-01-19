@@ -1,4 +1,4 @@
-#[is-which-device](https://www.npmjs.com/package/@adotee.me/is-which-device) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adotee-me/is-which-device/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/@adotee.me/is-which-device.svg?style=flat)](https://www.npmjs.com/package/@adotee.me/is-which-device)
+# [is-which-device](https://www.npmjs.com/package/@adotee.me/is-which-device) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adotee-me/is-which-device/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/@adotee.me/is-which-device.svg?style=flat)](https://www.npmjs.com/package/@adotee.me/is-which-device)
 
 * Leia em outra língua: [Inglês](README.md), [Português Brasileiro](README.pt-br.md), [Italiano](README.it.md)
 
