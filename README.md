@@ -1,6 +1,6 @@
 # [is-which-device](https://www.npmjs.com/package/@adotee.me/is-which-device) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adotee-me/is-which-device/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/@adotee.me/is-which-device.svg?style=flat)](https://www.npmjs.com/package/@adotee.me/is-which-device)
 
-* Read this in other languages: [English](README.md), [Brazilian Portuguese](README.pt-br.md), [Italy](README.it.md)
+* Read this in other languages: [English](README.md), [Brazilian Portuguese](README.pt-br.md), [Italian](README.it.md)
 
 ## 🤔 &nbsp; What is it
 
@@ -49,7 +49,7 @@ And start the project
 With all that done, just use your browser's dev tools to modify the scren size and see the `span` tag changing its text according to the device
 
 
-## :closed_book: &nbsp; Documentação
+## :closed_book: &nbsp; Documentation
 
 Currently the devices have their size defined in the code and there is no way to change that without modifying the library, however, for the future we want to add more device's sizes and that they are dynamic according with its necessity.
 
