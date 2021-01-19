@@ -1,0 +1,1 @@
+Leia em outra língua: [Inglês](README.MD), [Português Brasileiro](README.pt-br.md), [Italiano](README.it.md)
