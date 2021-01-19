@@ -6,7 +6,7 @@
 
 is-which-device è una libreria di media queries all'interno dei file react, quindi puoi scegliere quando rendere o meno un componente e non avrai bisogno di usare ```display: none``` all'interno dei file di stile.
 
-## 🔥 &nbsp; Instalação
+## 🔥 &nbsp; Installazione
 
 Per installare questa libreria, digita sulla riga di comando:
 
