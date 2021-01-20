@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@adotee.me/is-which-device@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@adotee.me/is-which-device/-/is-which-device-1.0.0.tgz#0933d3b6facaeb04e9ebddbaaf1b3f3aada86106"
-  integrity sha512-a3G9opQNVmetGeZak9BKPLKKC2Naljzb+SPVvI4jlRYv9VKGnu4VpF++Gdwml8nqyKRrl3M7HYtoNtvLmIrY0g==
+"@adotee.me/is-which-device@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@adotee.me/is-which-device/-/is-which-device-1.0.1.tgz#b89a9cec8f68018069760efcc7b40a36784674b0"
+  integrity sha512-7fDGw7IMi65XZnkrSpbCOMWrA+YVtFsWF7G7OJNU1x6mmp6naihS5L34uCHwIUN0aquJbYmuf7CFuMI45VELCw==
 
 "@babel/code-frame@7.10.4":
   version "7.10.4"
