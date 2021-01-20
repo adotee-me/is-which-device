@@ -21,11 +21,11 @@ const useIsWhichDevice = () => {
 
   useEffect(() => {
     setDevice(setIsMobile, setIsTablet, setIsDesktop);
-  }, []);
 
-  window.addEventListener('resize', () => {
-    setDevice(setIsMobile, setIsTablet, setIsDesktop);
-  });
+    window?.addEventListener('resize', () => {
+      setDevice(setIsMobile, setIsTablet, setIsDesktop);
+    });
+  }, []);
 
   return {
     isMobile,
