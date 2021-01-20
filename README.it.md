@@ -2,7 +2,7 @@
 
 * Leggi in un'altra lingua: [Inglese](README.md), [Portoghese Brasiliano](README.pt-br.md), [Italiano](README.it.md)
 
-## 🤔 &nbsp; Che è
+## 🤔 &nbsp; Cos'è
 
 is-which-device è una libreria di media queries all'interno dei file react, quindi puoi scegliere quando rendere o meno un componente e non avrai bisogno di usare ```display: none``` all'interno dei file di stile.
 
